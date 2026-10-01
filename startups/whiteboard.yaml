@@ -30,9 +30,6 @@ links:
 logo:
   path: logo.png
   alt: White and blue diagonal slashes on a black square, Whiteboard's app icon
-gallery:
-  - path: product.png
-    alt: Whiteboard's official share image with its name, slash logo and open-source license statement
 sources:
   - url: https://dev.fast/
     title: Whiteboard official website and download page
@@ -42,8 +39,6 @@ sources:
     title: Founders' public Whiteboard release announcement, 24 September 2026
   - url: https://raw.githubusercontent.com/devdotfast/whiteboard/46c28f6b56cdee534c412ff03abe7d12cbb79bec/packages/review/app/icons/review-square-512.png
     title: Original 512-pixel application icon at a pinned source revision
-  - url: https://dev.fast/og.png
-    title: Official 1200-pixel website share image
 launch:
   title: Whiteboard releases its open-source desktop application
   summary: The founders announced the desktop application and published its source under the MIT license.
